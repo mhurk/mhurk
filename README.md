@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhurk
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently experimenting with Python and Django
 
 
 <!---
