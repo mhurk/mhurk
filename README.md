@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mhurk
-- 🌱 I’m currently experimenting with Python and Django
+Interested in R, arduino stuff, and home automation. Currently experimenting with Python and Django.
+
 
 
 <!---
