@@ -1,5 +1,4 @@
 Interested in R, arduino stuff and home automation. Currently experimenting with Python and Django.
-Fan of Homer Simpson (who isn't?) but that is totally irrelevant to add here.
 
 
 
